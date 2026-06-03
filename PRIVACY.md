@@ -32,6 +32,6 @@ The app is not directed at children under 13.
 
 We may update this policy; the “last updated” date will change.
 
-##Contact
+## Contact
 
-[Github Issues Link]
+[Github Issues Link](https://github.com/lbsonley/movement-timer-legal/issues)
